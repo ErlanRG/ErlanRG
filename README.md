@@ -1,6 +1,6 @@
 <h1 align="center">Hello there :)</h1>
 
-<p align="center">I am Erlan Rangel. I am an Electronic Engineer, a Software Engineering Student.</p>
+<p align="center">I am Erlan Rangel. I am an Electronics and Software Engineer</p>
 
 <h3 align="center">Where to find me</h3>
 
